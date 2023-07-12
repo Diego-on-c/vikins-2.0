@@ -8,7 +8,6 @@ import java.util.List;
 import static org.junit.jupiter.api.Assertions.*;
 
 class WarTest {
-
     String name = "Harald";
     int strength = 150;
     int health = 300;
